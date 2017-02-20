@@ -1,0 +1,27 @@
+{
+  "name": "nodejs_services",
+  "version": "1.0.0",
+  "description": "nodejs services creating for using it in mobile and web based applications ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dileepkeeppalli/nodeJS_services.git"
+  },
+  "keywords": [
+    "nodeJS",
+    "expressJS",
+    "AngularJS"
+  ],
+  "author": "dileep keeppalli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dileepkeeppalli/nodeJS_services/issues"
+  },
+  "homepage": "https://github.com/dileepkeeppalli/nodeJS_services#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
